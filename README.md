@@ -1,7 +1,3 @@
-Below is a refined version of your project description, formatted as a proper README:
-
----
-
 # QR Code Generator 🚀
 
 A simple Flask web app that generates animated QR codes. Built for fun and learning, this application allows you to create QR codes with a unique rainbow animation effect.
@@ -53,4 +49,3 @@ http://localhost:8000
 
 This project is licensed under the **MIT License**. Feel free to do whatever you want with it!
 
----
